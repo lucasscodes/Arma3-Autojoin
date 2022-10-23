@@ -1,10 +1,10 @@
 # Arma3-Autojoin
-Functionality:
+Functionality:  
 This Script uses AutoHotkey to get you automatically on a filled Arma Server which only has VIPSlots left.
 
 HowTo:
-First you enter a number in the popup GUI, this defines which slot is only for the VIPs.
-(e.g. the server has 100 Slots max. and the Slots 96-100 are reserved for VIPs
+First you enter a number in the popup GUI, this defines which slot is only for the VIPs.  
+(e.g. the server has 100 Slots max. and the Slots 96-100 are reserved for VIPs  
 => you enter 95, which is the first number not inside the VIPslots.)
 
 Algorithm:
