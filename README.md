@@ -1,7 +1,7 @@
 # Arma3-Autojoin
 ## Functionality:  
 This Script uses AutoHotkey to get you automatically on a filled Arma Server which only has VIPSlots left.
-But its hardcoded for a 1680*1050 Display and has alot other constraints at the end.
+But its hardcoded for a 1680*1050 Display and has other constraints at the end.
 
 ## HowTo:
 First you enter a number in the popup GUI, this defines which slot is only for the VIPs.  
