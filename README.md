@@ -32,5 +32,6 @@ First you enter a number in the popup GUI, this defines which slot is only for t
     if the errormessage is formatted like "ErrorAtFehlgeschlagen.png",  
     if u want to use the "Fehlgeschlagen.png" variant, u need to change the values inside line 566-586  
 
+## PostScriptum:
 This script is a really simple and unpolished, did it 2-4yrs ago and only needed it to join friends.  
 Sadly the GUI prompts and comments are in german.
