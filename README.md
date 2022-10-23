@@ -1,13 +1,13 @@
 # Arma3-Autojoin
-Functionality:  
+## Functionality:  
 This Script uses AutoHotkey to get you automatically on a filled Arma Server which only has VIPSlots left.
 
-HowTo:
+## HowTo:
 First you enter a number in the popup GUI, this defines which slot is only for the VIPs.  
 (e.g. the server has 100 Slots max. and the Slots 96-100 are reserved for VIPs  
 => you enter 95, which is the first number not inside the VIPslots.)
 
-Algorithm:
+## Algorithm:
 1.Use GUI to get boundary.  
 2.The script reloads the serverlist, if the playercount gets close to the freemium slots it refreshes faster.  
     It uses 250-500ms reload cycles if only one player is blocking the last free slot,  
@@ -20,7 +20,7 @@ Algorithm:
 5.If there was no error, the loading is completed and the joinbot will close itself.  
     Beep once 300Hz@300ms  
 
-Constraints:  
+## Constraints:  
 -Playercount in (range:1,(...),100)  
 -First you need to filter the serverlist =>   
     The targetserver should be the first one and marked with the "white bar".  
