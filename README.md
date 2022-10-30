@@ -2,7 +2,7 @@
 ## Functionality:  
 This Script uses AutoHotkey to get you automatically on a filled Arma Server which only has VIPSlots left.
 But its hardcoded for a 1680*1050 Display and has other constraints at the end.
-This script is a really simple and unpolished, did it 2-4yrs ago and only needed it to join friends.  
+This script is a really simple and unpolished, did it many yrs ago and only needed it to join friends.  
 Sadly the GUI prompts and comments are in german.
 
 ## HowTo:
