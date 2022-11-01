@@ -30,7 +30,7 @@ First you enter a number in the popup GUI, this defines which slot is only for t
 -Tested with Arma 1.84 or 1.94, newer versions could change the UI   
     => new colours or locations of errormessage, playercount, joinbutton, exit errormessage etc.  
 -This is hardcoded for a 1680*1050 Display, it just reads hardcoded Pixelvalues.  
-    If u use another screensize, change these values or write the obvous missing function to generate them.  
+    If you use another screensize, change these values or write the obvous missing function to generate them.  
 -Also the loading will only fail inside func. fehlgeschlagen()    
     if the errormessage is formatted like "ErrorAtFehlgeschlagen.png",  
-    if u want to use the "Fehlgeschlagen.png" variant, u need to change the values inside line 566-586  
+    if you want to use the "Fehlgeschlagen.png" variant, you need to change the values inside line 566-586  
